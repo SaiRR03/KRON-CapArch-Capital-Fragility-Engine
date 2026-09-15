@@ -80,7 +80,7 @@ KRON-Capital-Fragility-Engine/
 
 ## Quick start
 
-Python **3.11** is recommended because the Alpha was validated against the Python 3.11 numerical stack.
+Python **3.11–3.14** is supported for the public Alpha. The numerical mechanics are checked by the repository test suite across supported Python versions.
 
 ### 1. Create a clean environment
 
@@ -102,7 +102,7 @@ source .venv/bin/activate
 
 ```bash
 python -m pip install --upgrade pip
-pip install -r requirements.txt
+python -m pip install -r requirements.txt
 ```
 
 ### 3. Run the tests
