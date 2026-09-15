@@ -4,6 +4,9 @@ title: "KRON Capital Fragility Engine™ v1.0 Alpha"
 type: software
 version: "1.0.0-alpha"
 date-released: 2026-09-15
+doi: "10.5281/zenodo.22772980"
+license: "AGPL-3.0"
+repository-code: "https://github.com/SaiRR03/KRON-CapArch-Capital-Fragility-Engine"
 authors:
   - family-names: "Ravishankar"
     given-names: "Sai"
