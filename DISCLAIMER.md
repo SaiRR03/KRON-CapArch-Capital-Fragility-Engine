@@ -34,7 +34,7 @@ Copyright and all other rights in the published KRON materials remain with their
 
 This repository is intentionally limited to the public deterministic Alpha. No rights are granted or implied in any unpublished KRON research, empirical calibration, private datasets, proprietary transmission coefficients, asset-exposure mapping, future models, trade secrets, patents or patentable subject matter.
 
-No commercial-use, sublicensing, trademark or patent licence is granted by this disclaimer. If you intend to reuse the software beyond personal evaluation, research testing or critique, obtain appropriate permission and legal advice.
+The software in this repository is licensed under the GNU Affero General Public License v3.0 (AGPL-3.0), which permits use, modification and distribution, including commercial use, subject to its terms. This disclaimer does not grant any separate trade mark, branding, patent or other rights in material outside the licensed repository contents. Users remain responsible for complying with the licence and obtaining legal advice where appropriate.
 
 ## No warranty
 
