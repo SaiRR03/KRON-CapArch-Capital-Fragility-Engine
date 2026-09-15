@@ -1,8 +1,10 @@
 # KRON Capital Fragility Engine™ v1.0 Alpha
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22772979.svg)](https://doi.org/10.5281/zenodo.22772979)
+
 **Deterministic capital resilience analysis for capital-intensive projects.**
 
-KRON Capital Fragility Engine™ (CFE) asks one practical question:
+KRON Capital Fragility Engine™ (CFE) asks a question:
 
 > **How much adverse movement can a project's capital structure absorb before a defined financial intervention threshold is reached?**
 
