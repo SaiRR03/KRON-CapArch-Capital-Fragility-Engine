@@ -228,10 +228,15 @@ Please open a GitHub Issue with a reproducible example where possible.
 
 ## Intellectual-property posture
 
-This is a **source-available Alpha release**, not a disclosure of KRON's full research stack. The repository intentionally publishes the generic deterministic layer while keeping empirical calibration, datasets, unreleased research and future commercial logic outside the public release.
+This is an **open-source Alpha release under AGPL-3.0**, but it is not a disclosure of KRON's full research stack. The repository intentionally publishes the generic deterministic layer while keeping empirical calibration, datasets, unreleased research and future commercial logic outside the public release.
 
 KRON Capital Fragility Engine™, KRON Capital Fragility Framework™ and KRON CapArch are used as KRON marks. See [DISCLAIMER.md](DISCLAIMER.md) for the release notice.
 
 ## Citation
 
 Citation metadata is provided in [`CITATION.cff`](CITATION.cff).
+
+
+## Licence
+
+The software in this repository is licensed under the **GNU Affero General Public License v3.0 (AGPL-3.0)**. Commercial use is permitted subject to the terms of that licence. The software licence does not grant rights to KRON CapArch trade marks, branding, private datasets, unpublished research or other material that is not included in this repository.
